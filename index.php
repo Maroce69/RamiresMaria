@@ -36,7 +36,7 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en la  Unidad Educativa Pierre Teilhard de Chardiny y me gradue como Técnico de Servicios A.I. Durante mi educación secundaria, adquirí habilidades valiosas en diversas áreas, lo que me permitió desarrollar una amplia gama de habilidades y competencias.</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en la  Unidad Educativa Pierre Teilhard de Chardin y me gradue como Técnico de Servicios A.I. Durante mi educación secundaria, adquirí habilidades valiosas en diversas áreas, lo que me permitió desarrollar una amplia gama de habilidades y competencias.</p>
                    <p class="eys-parrafo">Mi programa de estudios se centró en el desarrollo de habilidades técnicas y prácticas, y en la adquisición de conocimientos especializados en el área de Servicios de Inteligencia Artificial. En particular, aprendí sobre la arquitectura de sistemas de inteligencia artificial, programación de sistemas y aplicaciones de IA, y técnicas avanzadas de análisis de datos.</p>
 <p class="eys-parrafo"> Además de mis habilidades técnicas, también adquirí habilidades en áreas como la comunicación, la resolución de problemas y la toma de decisiones. Participé activamente en actividades extracurriculares y proyectos de grupo, lo que me permitió desarrollar habilidades sociales y de trabajo en equipo.
 
