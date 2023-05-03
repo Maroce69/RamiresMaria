@@ -91,7 +91,7 @@ document.getElementById("elnombre").innerHTML="Maria Ramires";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-petter.php'>Petter Cortez</a></p><p><a href='eys-nixon.php'>Nixon Ortiz</a></p><p><a href='eys-giovanna.php'>Giovanna Rodriguez</a></p>";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://congresoutlvte.org/CortezPetter/'>Petter Cortez</a></p><p><a href='https://congresoutlvte.org/OrtizNixon/'>Nixon Ortiz</a></p><p><a href='https://congresoutlvte.org/RodriguezGiovanna/'>Giovanna Rodriguez</a></p>";
  </script>
  
 <?php
